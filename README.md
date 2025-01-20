@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amsheed</h1>
-<h3 align="center">A passionate Machine learning engineer an a data analyst from India.</h3>
+<h3 align="center">A passionate Machine learning engineer and a data analyst from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsheedkhan&label=Profile%20views&color=0e75b6&style=flat" alt="amsheedkhan" /> </p>
 
